@@ -74,11 +74,11 @@ class FeaturedProjects extends React.Component {
                     <a
                         target="_blank"
                         rel="noopener noreferrer"
-                        href={`https://scratch.mit.edu/studios/${this.props.studio}/`}
+                        href={`https://scratch.mit.edu/studios/52182440/`}
                     >
                         <FormattedMessage
                             defaultMessage="View studio on Scratch."
-                            description="Link to turbowarp featured projects studio"
+                            description="Link to numbermod featured projects studio"
                             id="tw.featuredProjectsStudio"
                         />
                     </a>
